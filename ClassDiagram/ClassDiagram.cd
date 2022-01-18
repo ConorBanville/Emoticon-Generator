@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EmojiCommand.AddFeature" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAQQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AddFeature.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EmojiCommand.Program">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAgAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="m" />
+      <Field Name="Canvas" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EmojiCommand.Manager">
+    <Position X="3" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAKAAAAIAAAAAAAAAAAAAAAAABAAAEAAAAAI=</HashCode>
+      <FileName>Manager.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Invoker" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EmojiCommand.Invoker">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAECAAAAAAA=</HashCode>
+      <FileName>Invoker.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="History" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="EmojiCommand.Canvas" Collapsed="true">
+    <Position X="0.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAICIAAAgAAAAABAAAAAAAAAAABBAAAAAAQAAA=</HashCode>
+      <FileName>Canvas.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Features" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="EmojiCommand.IFeature" Collapsed="true">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAEAAAAgAAAAQAAAAAAAAAAQAAAAAAYAA=</HashCode>
+      <FileName>IFeature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmojiCommand.LeftBrow" Collapsed="true">
+    <Position X="0.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAEAAAAgAAAAQAAAAAAAAAAQAAAAAAYAA=</HashCode>
+      <FileName>Left-brow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmojiCommand.LeftEye" Collapsed="true">
+    <Position X="3" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAEAAAAgAAAAQAAAAAAAAAAQAAAAAAYAA=</HashCode>
+      <FileName>Left-eye.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmojiCommand.Mouth" Collapsed="true">
+    <Position X="5.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAEAAAAgAAAAQAAAAAAAAAAQAAAAAAYAA=</HashCode>
+      <FileName>Mouth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmojiCommand.RightBrow" Collapsed="true">
+    <Position X="7.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAEAAAAgAAAAQAAAAAAAAAAQAAAAAAYAA=</HashCode>
+      <FileName>Right-brow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmojiCommand.RightEye" Collapsed="true">
+    <Position X="9.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAEAAAAgAAAAQAAAAAAAAAAQAAAAAAYAA=</HashCode>
+      <FileName>Right-eye.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmojiCommand.MoveFeature" Collapsed="true">
+    <Position X="9" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAIAAAAAAAAAgAAQQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MoveFeature.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EmojiCommand.RemoveFeature" Collapsed="true">
+    <Position X="10.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAQQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RemoveFeature.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EmojiCommand.ResetFeature" Collapsed="true">
+    <Position X="12" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAQQACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ResetFeature.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EmojiCommand.StyleFeature" Collapsed="true">
+    <Position X="13.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAQQAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>StyleFeature.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EmojiCommand.Info" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAIAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Info.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="EmojiCommand.ICommand">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICommand.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,32 @@
+C:\Users\FiercePC\Desktop\CS264 Coding exam\EmojiCommand\bin\Debug\net5.0\EmojiCommand.exe
+C:\Users\FiercePC\Desktop\CS264 Coding exam\EmojiCommand\bin\Debug\net5.0\EmojiCommand.deps.json
+C:\Users\FiercePC\Desktop\CS264 Coding exam\EmojiCommand\bin\Debug\net5.0\EmojiCommand.runtimeconfig.json
+C:\Users\FiercePC\Desktop\CS264 Coding exam\EmojiCommand\bin\Debug\net5.0\EmojiCommand.runtimeconfig.dev.json
+C:\Users\FiercePC\Desktop\CS264 Coding exam\EmojiCommand\bin\Debug\net5.0\EmojiCommand.dll
+C:\Users\FiercePC\Desktop\CS264 Coding exam\EmojiCommand\bin\Debug\net5.0\ref\EmojiCommand.dll
+C:\Users\FiercePC\Desktop\CS264 Coding exam\EmojiCommand\bin\Debug\net5.0\EmojiCommand.pdb
+C:\Users\FiercePC\Desktop\CS264 Coding exam\EmojiCommand\obj\Debug\net5.0\EmojiCommand.csproj.AssemblyReference.cache
+C:\Users\FiercePC\Desktop\CS264 Coding exam\EmojiCommand\obj\Debug\net5.0\EmojiCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FiercePC\Desktop\CS264 Coding exam\EmojiCommand\obj\Debug\net5.0\EmojiCommand.AssemblyInfoInputs.cache
+C:\Users\FiercePC\Desktop\CS264 Coding exam\EmojiCommand\obj\Debug\net5.0\EmojiCommand.AssemblyInfo.cs
+C:\Users\FiercePC\Desktop\CS264 Coding exam\EmojiCommand\obj\Debug\net5.0\EmojiCommand.csproj.CoreCompileInputs.cache
+C:\Users\FiercePC\Desktop\CS264 Coding exam\EmojiCommand\obj\Debug\net5.0\EmojiCommand.dll
+C:\Users\FiercePC\Desktop\CS264 Coding exam\EmojiCommand\obj\Debug\net5.0\ref\EmojiCommand.dll
+C:\Users\FiercePC\Desktop\CS264 Coding exam\EmojiCommand\obj\Debug\net5.0\EmojiCommand.pdb
+C:\Users\FiercePC\Desktop\CS264 Coding exam\EmojiCommand\obj\Debug\net5.0\EmojiCommand.genruntimeconfig.cache
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Coding exam\EmojiCommand\bin\Debug\net5.0\EmojiCommand.exe
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Coding exam\EmojiCommand\bin\Debug\net5.0\EmojiCommand.deps.json
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Coding exam\EmojiCommand\bin\Debug\net5.0\EmojiCommand.runtimeconfig.json
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Coding exam\EmojiCommand\bin\Debug\net5.0\EmojiCommand.runtimeconfig.dev.json
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Coding exam\EmojiCommand\bin\Debug\net5.0\EmojiCommand.dll
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Coding exam\EmojiCommand\bin\Debug\net5.0\ref\EmojiCommand.dll
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Coding exam\EmojiCommand\bin\Debug\net5.0\EmojiCommand.pdb
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Coding exam\EmojiCommand\obj\Debug\net5.0\EmojiCommand.csproj.AssemblyReference.cache
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Coding exam\EmojiCommand\obj\Debug\net5.0\EmojiCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Coding exam\EmojiCommand\obj\Debug\net5.0\EmojiCommand.AssemblyInfoInputs.cache
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Coding exam\EmojiCommand\obj\Debug\net5.0\EmojiCommand.AssemblyInfo.cs
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Coding exam\EmojiCommand\obj\Debug\net5.0\EmojiCommand.csproj.CoreCompileInputs.cache
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Coding exam\EmojiCommand\obj\Debug\net5.0\EmojiCommand.dll
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Coding exam\EmojiCommand\obj\Debug\net5.0\ref\EmojiCommand.dll
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Coding exam\EmojiCommand\obj\Debug\net5.0\EmojiCommand.pdb
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Coding exam\EmojiCommand\obj\Debug\net5.0\EmojiCommand.genruntimeconfig.cache
