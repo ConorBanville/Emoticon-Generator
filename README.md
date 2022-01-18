@@ -1,6 +1,6 @@
 # Emoticon Generator
 
-This is a C# console application to help you create and customise your favourite emoticons in svg. (As long as you have extremely limited taste in Emojis :rofl: )
+This is a C# console application to help you create and customise your favourite emoticons in svg. (As long as you have extremely limited taste in Emojis:rofl:).
 The application utilizes the Command Design Pattern to facilitate undoable operations, so don't worry if you make a mistake when creating an emoji!
 
 #### To get started simply download to repo, unzip the file and run the command
